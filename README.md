@@ -145,3 +145,12 @@ only manual things should be
 vagrant up ssh app
 cd app/app
 npm start
+
+
+### Mongodb
+
+MongoDB is a document database used to build highly available and scalable internet applications. With its flexible schema approach, it’s popular with development teams using agile methodologies. Offering drivers for all major programming languages, MongoDB allows you to immediately start building your application without spending time configuring a database.
+
+- each record in a MongoDB database is a document described in BSON, a binary representation of the data. Applications can then retrieve this information in a JSON format.
+- uses a JSON-like format to store documents. 
+- database can be used from various programming languages, including C, C# and .NET, C++, Go, Java, JavaScript, PHP, Python, Ruby, Rust, Scala, and Swift.
